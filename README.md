@@ -20,3 +20,6 @@ This code is a Python program that creates a graphical user interface (GUI) usin
 9. The code uses a black background for the GUI, and it provides a simple and straightforward way for users to input their data, generate a PDF document, and reset the form if needed.
 
 10. The program ensures that the PDF generation is a one-time operation to prevent overwriting existing PDFs with the same name by checking the `pdf_generated` flag.
+
+
+YOU CAN CUSTOMISE THE INPUT AND UI BASED ON THE REQUIREMENTS AND NEEDS.
